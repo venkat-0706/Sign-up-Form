@@ -27,7 +27,7 @@ This project implements a robust and user-friendly signup form using HTML, CSS, 
    Fill in the required fields and submit the form.
    Observe the form's validation and submission behavior.
 
-4. **You can check :** [Live Demo](https://venkat-0706.github.io/Sign-up-Page/)
+4. **You can check :** [Live Demo](https://venkat-0706.github.io/Sign-up-Form/)
 
 **Contributing:**
 We welcome contributions to improve this project. Feel free to fork the repository and submit pull requests.
